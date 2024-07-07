@@ -33,8 +33,7 @@ In this project, I developed an end-to-end data processing solution to handle CO
 #### CI/CD Pipelines with Azure DevOps:
 
 * I created Continuous Integration and Continuous Deployment (CI/CD) pipelines in Azure DevOps to manage the release of ADF pipelines to higher environments, such as testing and production.
-
-This streamlined the development process, ensuring that changes could be deployed consistently and reliably.
+* This streamlined the development process, ensuring that changes could be deployed consistently and reliably.
 
 Overall, this project showcased a robust data engineering workflow using Azure's suite of tools, enabling efficient data processing, transformation, and reporting.
 
